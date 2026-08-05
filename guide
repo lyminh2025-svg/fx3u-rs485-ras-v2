@@ -1,0 +1,19 @@
+tôi muốn thực hiện dự án sử dụng docker chạy webserver trên raspberry pi điều khiển plc fx3u- 14mt (board trung quốc), dữ liệu được lưu vào mariaBD hãy cho tôi biết những thông số cần cung cấp để thực hiện dự án 
+tôi muốn viết bằng ngôn ngữ Golang cho dự án này
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Quy trình tổng quan
+
+    Khởi tạo & Lập trình trên PC Linux
+
+    Test & Debug tại chỗ trên PC Linux
+
+    Build Multi-Arch Docker Image (ARM64 & AMD64) bằng Docker Buildx
+
+    Push Image lên Docker Hub
+
+    Pull & Run trên Raspberry Pi
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
