@@ -25,3 +25,7 @@ Lamp2_On M12
 Lamp2_Off M13
 Motor_On M14
 Motor_Off M15
+GHI THÔNG SỐ XUÔNG PLC BẰNG D200,D201,D203,D204,D206,D208
+HIỂN THỊ THÔNG SỐ TỪ PLC LÊN MÀN HÌNH T1,T2,T3 
+HÃY TẠO KẾT NỐI DỮ LIỆU GIỮA PLC VỚI WEBSERVER BĂNG NGÔN NGỪ GOLANG QUA CỔNG USB TO RS485 
+thêm nút lưu thông số cài đặt khi có dữ liệu mới từ io field D200,D201,D203,D204,D206,D208 
