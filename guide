@@ -15,5 +15,13 @@ Quy trình tổng quan
 
     Pull & Run trên Raspberry Pi
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
-
+Auto M20
+Manu M21
+Start M0
+Stop M1 
+Lamp1_ON M10
+Lamp1_Off M11
+Lamp2_On M12
+Lamp2_Off M13
+Motor_On M14
+Motor_Off M15
